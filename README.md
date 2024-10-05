@@ -1,13 +1,10 @@
 # Hi there! 👋
 
-I'm Jacob, also known as @froggy-12.
-
 ## About Me
 
 -   🌟 **Interests**: Programming
 -   📚 **Currently Learning**: Nothing at the moment, but always open to new ideas!
 -   🤝 **Looking To**: Collaborate with a team or a new startup company 😊.
--   📫 **How to Reach Me**: Send me a friend request on Discord - `_itsme_jacob_` (new account)
 
 ## Pronouns
 
